@@ -72,7 +72,7 @@ a{
 }
 .section-about {
     height: 640px;
-    background-image: url(../img/Image_backgroundd.jpg);
+    background-image: url("../img/Image_backgroundd.jpg");
     background-position: center;
     background-size: cover;
     position: relative;
